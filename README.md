@@ -43,7 +43,7 @@ Each experiment has its own implementation, tests, and documentation.
 Clone the repository:
 
 ```bash
-git clone [<repository-url>](https://github.com/mohammadtahaabdinasab/PyHood)
+git clone https://github.com/mohammadtahaabdinasab/PyHood
 cd PyHood
 ```
 
